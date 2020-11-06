@@ -1,0 +1,16 @@
+.card{
+    display: flex;
+    width: 400px;
+    flex-direction: column;
+    border: black 1px solid;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    box-shadow: 10px -5px grey;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: lime;
+}
